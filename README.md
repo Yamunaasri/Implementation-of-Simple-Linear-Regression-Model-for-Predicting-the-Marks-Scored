@@ -9,9 +9,9 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Import pandas, numpy and sklearn
-2. 
-3. 
-4. 
+2. Calculate the values for the  training data set
+3. Calculate the values for the  test data set
+4. Plot the graph for both the data sets and calculate for MAE, MSE and RMSE
 
 ## Program:
 ```
@@ -101,7 +101,7 @@ print("RMSE= ",rmse)
 #### GRAPH FOR TEST DATA
 ![Screenshot 2023-04-04 185256](https://user-images.githubusercontent.com/115707860/229806518-03370174-b337-4a62-94ac-90d97c64cc4d.png)
 
-###MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE
+### MEAN SQUARE ERROR, MEAN ABSOLUTE ERROR AND RMSE
 ![Screenshot 2023-04-04 185433](https://user-images.githubusercontent.com/115707860/229807013-9a2db0a2-04c4-466f-af27-6586dfd53642.png)
 
 
